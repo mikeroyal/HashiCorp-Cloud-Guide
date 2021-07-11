@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/121819653-245ecd80-cc43-11eb-950a-cb4db09481b6.png">
+ <img src="https://user-images.githubusercontent.com/45159366/125211960-f62ed680-e25e-11eb-946d-ca3723a063a0.png">
   <br />
   HashiCorp Cloud Guide
 </h1>
@@ -7,6 +7,11 @@
 #### A guide for getting started with HashiCorp Cloud Platform including the Tools and Applications that will make you a better and more efficient engineer with HashiCorp's Cloud Platform.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/125211963-faf38a80-e25e-11eb-99b1-4938ee266b5f.png">
+  <br />
+</p>
 
 # Table of Contents
 
@@ -32,16 +37,12 @@
 
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/125211964-fc24b780-e25e-11eb-9898-5df1f0ee7651.png">
   <br />
 </p>
 
 **HashiCorp Cloud Platform. Source: [HashiCorp](https://cloud.hashicorp.com)**
 
- <p align="center">
- <img src="">
-  <br />
-</p>
 
 # HashiCorp Cloud Learning Resources
 [Back to the Top](https://github.com/mikeroyal/HashiCorp-Cloud-Guide#table-of-contents)
