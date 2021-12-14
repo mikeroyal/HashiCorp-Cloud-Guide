@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/125211960-f62ed680-e25e-11eb-946d-ca3723a063a0.png">
+ <img src="https://user-images.githubusercontent.com/45159366/146078271-17e74a9d-da25-4e84-b7f1-77473c51aa22.png">
   <br />
   HashiCorp Cloud Guide
 </h1>
